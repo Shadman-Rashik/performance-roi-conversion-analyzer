@@ -1,0 +1,49 @@
+campaign_id,campaign_name,market,marketing_channel,campaign_objective,reporting_currency,marketing_spend,impressions,clicks,landing_page_visitors,product_interactions,add_to_cart,checkout_started,purchases,attributed_revenue
+C001,Loyalty Rewards - Facebook Ads - BD,Bangladesh,Facebook Ads,Traffic,USD,939.93,415302,5107,4357,2226,321,172,80,2180.34
+C002,Back to School - Instagram Ads - BD,Bangladesh,Instagram Ads,Retargeting,USD,802.91,307257,3197,2364,1468,242,119,46,855.25
+C003,Free Shipping Week - Google Search - BD,Bangladesh,Google Search,Conversions,USD,3638.66,243599,9511,8252,4569,1106,671,340,7199.84
+C004,Loyalty Rewards - Google Display - BD,Bangladesh,Google Display,Retargeting,USD,2448.1,2311181,23268,17346,6302,871,432,180,4055.27
+C005,New Arrivals - YouTube - BD,Bangladesh,YouTube,Traffic,USD,943.89,647481,6465,5645,2713,274,119,51,968.54
+C006,Free Shipping Week - TikTok Ads - BD,Bangladesh,TikTok Ads,Conversions,USD,3133.62,1205348,12872,10001,4860,808,288,100,1997.6
+C007,Free Shipping Week - Email - BD,Bangladesh,Email,Retargeting,USD,780.07,75485,2074,1978,1229,492,304,198,5137.91
+C008,Eid Sale - Influencer - BD,Bangladesh,Influencer,Conversions,USD,1075.11,320325,3693,2832,1677,305,141,64,1341.45
+C009,New Arrivals - Facebook Ads - IN,India,Facebook Ads,Retargeting,USD,1079.67,570853,7439,5982,3024,966,522,226,3646.56
+C010,Back to School - Instagram Ads - IN,India,Instagram Ads,Awareness,USD,1739.46,815015,8164,6465,4573,518,237,85,1637.24
+C011,Cart Recovery - Google Search - IN,India,Google Search,Traffic,USD,2088.8,96867,3444,3344,2089,374,244,139,2916.74
+C012,Cart Recovery - Google Display - IN,India,Google Display,Awareness,USD,817.5,1055768,10397,7657,2544,339,174,78,1508.69
+C013,Festival Offers - YouTube - IN,India,YouTube,Traffic,USD,2309.37,1728401,17245,13971,6697,1046,521,234,4162.42
+C014,Winter Collection - TikTok Ads - IN,India,TikTok Ads,Traffic,USD,1998.18,1595991,15890,11349,6413,1586,682,303,6573.76
+C015,Loyalty Rewards - Email - IN,India,Email,Conversions,USD,536.62,53363,1402,1300,791,176,126,78,1576.92
+C016,Eid Sale - Influencer - IN,India,Influencer,Awareness,USD,1956.48,680986,8297,6847,4028,404,226,104,2191.28
+C017,Free Shipping Week - Facebook Ads - AE,United Arab Emirates,Facebook Ads,Retargeting,USD,2157.39,332546,3261,2525,1321,314,168,76,4383.21
+C018,Flash Sale - Instagram Ads - AE,United Arab Emirates,Instagram Ads,Retargeting,USD,3053.99,528367,5464,4503,2715,231,117,66,3335.65
+C019,Eid Sale - Google Search - AE,United Arab Emirates,Google Search,Traffic,USD,7246.79,206637,6278,5168,3719,966,618,388,21821.4
+C020,Black Friday Preview - Google Display - AE,United Arab Emirates,Google Display,Retargeting,USD,5355.05,2215429,21980,15282,6746,1033,575,229,11720.65
+C021,New Arrivals - YouTube - AE,United Arab Emirates,YouTube,Traffic,USD,1942.35,567541,5709,4289,2151,148,87,35,2251.05
+C022,Festival Offers - TikTok Ads - AE,United Arab Emirates,TikTok Ads,Awareness,USD,4580.75,1528866,15261,12607,5695,527,244,107,5307.82
+C023,Eid Sale - Email - AE,United Arab Emirates,Email,Retargeting,USD,1251.52,54059,1472,1461,919,222,148,100,5058.15
+C024,Festival Offers - Influencer - AE,United Arab Emirates,Influencer,Conversions,USD,1598.94,192407,3313,2340,1242,357,211,102,5920.1
+C025,Flash Sale - Facebook Ads - UK,United Kingdom,Facebook Ads,Traffic,USD,1732.0,398354,4605,3591,1979,496,313,175,10518.3
+C026,Winter Collection - Instagram Ads - UK,United Kingdom,Instagram Ads,Conversions,USD,4985.91,759492,7622,7098,4231,776,393,227,12902.54
+C027,Eid Sale - Google Search - UK,United Kingdom,Google Search,Traffic,USD,5919.17,212289,5393,4691,2604,1014,691,432,29063.48
+C028,Black Friday Preview - Google Display - UK,United Kingdom,Google Display,Awareness,USD,3059.23,1085758,11001,8062,3233,511,240,124,8538.44
+C029,Black Friday Preview - YouTube - UK,United Kingdom,YouTube,Traffic,USD,5043.96,1377465,13913,11448,5439,735,313,179,9922.56
+C030,Black Friday Preview - TikTok Ads - UK,United Kingdom,TikTok Ads,Traffic,USD,3411.99,424674,4378,2856,1628,282,111,45,2974.29
+C031,Festival Offers - Email - UK,United Kingdom,Email,Retargeting,USD,3417.43,80073,2231,1784,1046,497,304,177,12000.52
+C032,Back to School - Influencer - UK,United Kingdom,Influencer,Awareness,USD,3107.49,349027,4136,2994,1455,298,141,0,0.0
+C033,New Arrivals - Facebook Ads - US,United States,Facebook Ads,Traffic,USD,11791.08,768207,8085,6023,2997,626,359,192,12996.0
+C034,Flash Sale - Instagram Ads - US,United States,Instagram Ads,Retargeting,USD,6753.45,948451,9446,8075,4664,1063,525,286,20188.84
+C035,Black Friday Preview - Google Search - US,United States,Google Search,Conversions,USD,5115.94,126747,4215,3887,2386,824,482,283,15425.42
+C036,Black Friday Preview - Google Display - US,United States,Google Display,Retargeting,USD,5271.74,1589893,15725,11072,4055,488,267,142,10507.88
+C037,Winter Collection - YouTube - US,United States,YouTube,Awareness,USD,3699.78,743362,7517,5044,2454,469,230,119,9102.08
+C038,Festival Offers - TikTok Ads - US,United States,TikTok Ads,Conversions,USD,5303.8,1034357,11097,5919,3163,921,409,192,11725.44
+C039,New Arrivals - Email - US,United States,Email,Retargeting,USD,1410.47,48089,1178,1097,664,142,85,67,4847.86
+C040,Loyalty Rewards - Influencer - US,United States,Influencer,Conversions,USD,8539.87,550574,8897,7867,4863,1471,749,414,30098.95
+C041,Cart Recovery - Google Display - BD,Bangladesh,Google Display,Retargeting,USD,1241.9,1220439,12124,9108,4014,865,439,169,3536.54
+C042,New Arrivals - Google Display - UK,United Kingdom,Google Display,Awareness,USD,7973.77,2428652,24247,19133,7516,776,416,208,12320.57
+C043,Cart Recovery - Facebook Ads - US,United States,Facebook Ads,Conversions,USD,12081.09,1074512,12591,10184,4898,1075,660,388,23616.23
+C044,Loyalty Rewards - Email - AE,United Arab Emirates,Email,Conversions,USD,1795.8,70641,1792,1594,1134,386,225,148,8204.55
+C045,New Arrivals - Facebook Ads - AE,United Arab Emirates,Facebook Ads,Retargeting,USD,1393.91,386485,3873,3014,1632,316,194,91,5012.28
+C046,Festival Offers - Influencer - IN,India,Influencer,Awareness,USD,683.22,197370,3136,2543,1471,195,93,33,654.42
+C047,Winter Collection - Google Search - BD,Bangladesh,Google Search,Conversions,USD,3280.28,258386,9618,9215,5770,1023,719,405,8121.55
+C048,Flash Sale - Google Search - UK,United Kingdom,Google Search,Traffic,USD,3701.32,83797,3039,2570,1895,322,187,129,7549.84

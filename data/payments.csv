@@ -1,0 +1,16 @@
+market,payment_method,checkout_attempts,successful_payments,failed_payments,completed_orders
+Bangladesh,Cash on Delivery,18415,15287,3128,14204
+Bangladesh,bKash,15977,15035,942,14590
+Bangladesh,Nagad,6355,5929,426,5748
+Bangladesh,Card,5876,4928,948,4777
+India,Cash on Delivery,19770,15826,3944,14713
+India,UPI,19324,18514,810,17971
+India,Card,9689,8506,1183,8277
+India,Digital Wallet,4838,4590,248,4466
+United Arab Emirates,Cash on Delivery,6112,5354,758,5008
+United Arab Emirates,Card,8542,7945,597,7700
+United Arab Emirates,Digital Wallet,4329,4068,261,3925
+United Kingdom,Card,9969,9353,616,9094
+United Kingdom,Digital Wallet,5967,5744,223,5564
+United States,Card,15604,14791,813,14328
+United States,Digital Wallet,8049,7721,328,7513
